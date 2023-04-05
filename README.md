@@ -9,14 +9,4 @@
 
 #### Sonuç:
 
-
-          a1   a2   a3   a4   a5   a6   a7   a8   a9
-Cluster                                             
-1        161  161  161  161  161  161  161  161  161
-2         33   33   33   33   33   33   33   33   33
-3         20   20   20   20   20   20   20   20   20
- WCSS: 28.604234547095427
-
- BCSS: 9
-
- Dunn Index: 0.3146387289330171
+![resim açıklaması](https://photos.app.goo.gl/KM2nC4kKpG9bqigg9)
