@@ -9,4 +9,4 @@
 
 #### Sonuç:
 
-![resim açıklaması](https://photos.app.goo.gl/KM2nC4kKpG9bqigg9)
+![resim açıklaması](https://photos.google.com/search/_tra_/photo/AF1QipNA0kwuqrHjZo-G8mXIKUhw-AK36jZx73XYwad3)
